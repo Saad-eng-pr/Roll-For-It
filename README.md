@@ -11,9 +11,9 @@
 ## 🛠️ Installation et Exécution  
 
 ### 📌 Prérequis  
--Pour exécuter:
+- ** Pour exécuter: **
   make
--Assurez-vous d'avoir **SDL2** installé sur votre machine.  
+- ** Assurez-vous d'avoir **SDL2** installé sur votre machine. **  
 
 Sur **Ubuntu/Debian** :  
 ```bash
